@@ -19,5 +19,6 @@ excerpt_separator: "<!--more-->"
 # google_site_verification: ""
 # bing_webmastertools_id: ""
 
+url: "https://jorgelgarcia.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
