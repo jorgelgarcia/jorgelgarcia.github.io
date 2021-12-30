@@ -36,7 +36,7 @@ I use these coarse notes as rough guides for teaching my econometrics classes. T
 13. [Variance](https://www.dropbox.com/s/0tksmn23cp5auv9/topic12_varianceestimation.pdf?dl=0).
 <br />
 
-The public GitHub repository for these notes is [here](https://github.com/jorgelgarcia/econ900-02). Anyone can fork the repository to create a spinoff of the notes.
+The public GitHub repository for these notes is [here](https://github.com/jorgelgarcia/econ900-02). Anyone can fork the repository to create another version of the notes.
 <br />
 <br />
 
@@ -62,6 +62,6 @@ The public GitHub repository for these notes is [here](https://github.com/jorgel
 10. [General Method of Moments](https://www.dropbox.com/s/aykxh62gmeuclgp/topic10_gmm.pdf?dl=0). 
 <br />
 
-The public GitHub repository for these notes is [here](https://github.com/jorgelgarcia/econ900-03). Anyone can fork the repository to create a spinoff of the notes.
+The public GitHub repository for these notes is [here](https://github.com/jorgelgarcia/econ900-03). Anyone can fork the repository to create another version of the notes.
 <br />
 <br />
