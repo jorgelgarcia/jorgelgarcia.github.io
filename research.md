@@ -13,13 +13,15 @@ permalink: /research/
 <br/>
 
 11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Under Review.
-* [Current version](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/6bq3s5zprz0x3wq/perrysecondgen_01152022a_jlg.pdf?dl=0).
+* [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
 <br/>
 
 10\. The Dynastic Benefits of Early Childhood Education (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under Review.
-* [Current version](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/k6fgezqkfu7xqm6/perrycba_paper_2021-12-17a_jlg.pdf?dl=0).
+* [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/i88eyg77ae0ovfb/perrycba_slides_november_jlg.pdf?dl=0).
 <br/>
 <br/>
