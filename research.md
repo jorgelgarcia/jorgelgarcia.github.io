@@ -13,15 +13,15 @@ permalink: /research/
 <br/>
 
 11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Under Review.
-* [Current Version](https://www.dropbox.com/s/6bq3s5zprz0x3wq/perrysecondgen_01152022a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
-* [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
+* [Current version](https://www.dropbox.com/s/6bq3s5zprz0x3wq/perrysecondgen_01152022a_jlg.pdf?dl=0).
+* [NBER working paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
+* [NBER non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
 <br/>
 
 10\. The Dynastic Benefits of Early Childhood Education (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under Review.
-* [Current Version](https://www.dropbox.com/s/k6fgezqkfu7xqm6/perrycba_paper_2021-12-17a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
+* [Current version](https://www.dropbox.com/s/k6fgezqkfu7xqm6/perrycba_paper_2021-12-17a_jlg.pdf?dl=0).
+* [NBER working paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/i88eyg77ae0ovfb/perrycba_slides_november_jlg.pdf?dl=0).
 <br/>
 <br/>
@@ -40,7 +40,7 @@ permalink: /research/
 
 7\. Quantifying the Life-cycle Benefits of an Influential Early Childhood Program (with James J. Heckman, Duncan Ermini Leaf, María José Prados). 2020. Journal of Political Economy. 128:7.
 * [Published version](https://www.dropbox.com/s/1yinom4vsgl3afc/705718.pdf?dl=0). 
-<br/>[Microeconomic Insights Non-technical Summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/).
+<br/>[Microeconomic Insights non-technical summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/).
 <br/>
 <br/>
 
@@ -67,7 +67,7 @@ permalink: /research/
 ### Book Chapters
 2\. Early Childhood Education (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. Economics of Means-Tested Transfer Programs in the United States, Volume II. The University of Chicago Press, edited by Robert Moffitt.
 * [Published version](https://www.dropbox.com/s/u60uewgz4asd5os/c13489.pdf?dl=0).
-* [VOX, CEPR Policy Portal Non-technical Summary](https://voxeu.org/article/early-childhood-education-and-social-mobility).
+* [VOX, CEPR policy portal non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility).
 <br/>
 <br/>
 
