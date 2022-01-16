@@ -14,7 +14,7 @@ At Clemson, I have also taught a course on the economics of education for underg
 ## Econ 900-02: Econometrics I (first-year Econ Ph.D. sequence)---Ph.D. Course
 This course provides a primer on graduate-level regression analysis. The course covers mathematical, statistical, mechanical, and computational intrinsic details of linear regression. The course offers several empirical applications. It provides version control and statistical-software training.
 * [Fall 2021 Student Evaluations](https://www.dropbox.com/s/913oo1ucdjk9lup/ECON-9000-002SelectedTopics202108-ECON-9000-002-89525-GarciaGMenendez_JorgeGarciaGMenendez.pdf?dl=0).
-* [Fall 2020 Student  Evaluations](https://www.dropbox.com/s/ky2x0gry3nps2ip/ECON-9000-002SelectedTopics_JorgeGarciaGMenendez.pdf?dl=0).
+* [Fall 2020 Student Evaluations](https://www.dropbox.com/s/ky2x0gry3nps2ip/ECON-9000-002SelectedTopics_JorgeGarciaGMenendez.pdf?dl=0).
 <br />
 <br />
 
@@ -27,7 +27,7 @@ This course provides an introduction to empirical design for causal inference. B
 
 ## Econ 899-02: Econometrics II (Econ Ph.D.)---Ph.D. Reading Group
 This reading group studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, instrumental variables, synthetic cohort, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, identification of marginal treatment effects using instrumental variables, dynamic synthetic controls, and moment estimators in panel settings. 
-* [Reading List: Module 1--Difference in Differences](https://www.dropbox.com/s/m9t04564m47p10g/readinglist_m1.pdf?dl=0).
+* [Reading list: Module 1--Difference in Differences](https://www.dropbox.com/s/m9t04564m47p10g/readinglist_m1.pdf?dl=0).
 <br />
 <br />
 
@@ -37,9 +37,13 @@ This reading group studies advanced tools for causal inference and policy evalua
 <br />
 
 ## Econ 411/611: Economics of Education---Undergraduate and M.A. Course
-* [Fall 2020  Student Evaluations, Undergraduate](https://www.dropbox.com/s/vujjz00bbm0gm30/ECON-4110-002EconofEducation_JorgeGarciaGMenendez.pdf?dl=0).
-* [Fall 2020 Student Evaluations, M.A.](https://www.dropbox.com/s/s7m3l5pzsytu0ul/ECON-6110-001EconofEducation_JorgeGarciaGMenendez.pdf?dl=0)
-* [Fall 2019 Student Evaluations, Undergraduate](https://www.dropbox.com/s/a707teeoc6acc80/eval411_fall2019.pdf?dl=0).
-* [Fall 2019 Student Evaluations, M.A.](https://www.dropbox.com/s/0pm2v2k6wo37w7t/eval611_fall2019.pdf?dl=0)
-* [Spring 2019 Student Evaluations, Undergraduate](https://www.dropbox.com/s/uf5f9pyxoifnpe1/JLGARCI_ECON_-4110-001_1901_summary_report.pdf?dl=0).
-* [Spring 2019 Student Evaluations, M.A.](https://www.dropbox.com/s/0m5sbqptylr3nhh/JLGARCI_ECON_-6110-001_1901_summary_report.pdf?dl=0)
+* [Fall 2020  Student Evaluations. Undergraduate](https://www.dropbox.com/s/vujjz00bbm0gm30/ECON-4110-002EconofEducation_JorgeGarciaGMenendez.pdf?dl=0).
+* [Fall 2020 Student Evaluations. M.A.](https://www.dropbox.com/s/s7m3l5pzsytu0ul/ECON-6110-001EconofEducation_JorgeGarciaGMenendez.pdf?dl=0)
+<br />
+<br />
+* [Fall 2019 Student Evaluations. Undergraduate](https://www.dropbox.com/s/a707teeoc6acc80/eval411_fall2019.pdf?dl=0).
+* [Fall 2019 Student Evaluations. M.A.](https://www.dropbox.com/s/0pm2v2k6wo37w7t/eval611_fall2019.pdf?dl=0)
+<br />
+<br />
+* [Spring 2019 Student Evaluations. Undergraduate](https://www.dropbox.com/s/uf5f9pyxoifnpe1/JLGARCI_ECON_-4110-001_1901_summary_report.pdf?dl=0).
+* [Spring 2019 Student Evaluations. M.A.](https://www.dropbox.com/s/0m5sbqptylr3nhh/JLGARCI_ECON_-6110-001_1901_summary_report.pdf?dl=0)
