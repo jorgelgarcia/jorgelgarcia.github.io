@@ -28,6 +28,7 @@ permalink: /research/
 
 9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Under Review.
 * [Current Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0).
+* Resubmitted to the Journal of Human Resources.
 <br/>
 <br/>
 
