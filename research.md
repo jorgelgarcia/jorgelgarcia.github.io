@@ -41,7 +41,7 @@ permalink: /research/
 
 7\. Quantifying the Life-cycle Benefits of an Influential Early Childhood Program (with James J. Heckman, Duncan Ermini Leaf, María José Prados). 2020. Journal of Political Economy. 128:7.
 * [Published Version](https://www.dropbox.com/s/1yinom4vsgl3afc/705718.pdf?dl=0). 
-<br/>[Microeconomic Insights Non-technical Summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/).
+* [Microeconomic Insights Non-technical Summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/).
 <br/>
 <br/>
 
