@@ -6,7 +6,7 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
-12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Under Review.
+12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women?
 * [Current Version](https://www.dropbox.com/s/t5yf0jjfln1wh9t/gem_paper_05212021a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/bbqf8tf0vyng9hd/gem_slides_december.pdf?dl=0).
 <br/>
@@ -29,7 +29,7 @@ permalink: /research/
 ## Publications
 ### Peer-reviewed
 
-9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Under Review.
+9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy.
 * [Accepted Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0).
 * Accepted to the Journal of Human Resources.
 <br/>
