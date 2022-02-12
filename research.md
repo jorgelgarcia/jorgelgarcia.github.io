@@ -29,9 +29,9 @@ permalink: /research/
 ## Publications
 ### Peer-reviewed
 
-9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy.
-* [Accepted Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0).
-* Accepted to the Journal of Human Resources.
+9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Accepted to the Journal of Human Resources.
+* [Accepted Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0). 
+* [Appendix](https://www.dropbox.com/s/acxrwjlr4gk6fjc/pricingchildren_appendix_jlg_12062021.pdf?dl=0).
 <br/>
 <br/>
 
