@@ -26,14 +26,15 @@ permalink: /research/
 <br/>
 <br/>
 
+## Publications
+### Peer-reviewed
+
 9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Under Review.
-* [Current Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0).
-* Resubmitted to the Journal of Human Resources.
+* [Accepted Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0).
+* Accepted to the Journal of Human Resources.
 <br/>
 <br/>
 
-## Publications
-### Peer-reviewed
 8\. Early Childhood Education and Life-cycle Health (with James J. Heckman). 2020. Health Economics. 30:S1.
 * [Published Version](https://www.dropbox.com/s/viq16eci1e0kxkn/healtheconomics.pdf?dl=0).
 <br/>
