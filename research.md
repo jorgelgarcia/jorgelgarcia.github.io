@@ -7,8 +7,8 @@ permalink: /research/
 ## Working Papers
 
 12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women?
-* [Current Version](https://www.dropbox.com/s/t5yf0jjfln1wh9t/gem_paper_05212021a_jlg.pdf?dl=0).
-* [Slides](https://www.dropbox.com/s/bbqf8tf0vyng9hd/gem_slides_december.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/quxjl4u849zl557/gem_paper_03072022a_jlg.pdf?dl=0).
+* [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
@@ -30,8 +30,8 @@ permalink: /research/
 ### Peer-reviewed
 
 9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Accepted to the Journal of Human Resources.
-* [Accepted Version](https://www.dropbox.com/s/5ohqyhc3ojbuweh/pricingchildren_paper_jlg_12062021.pdf?dl=0). 
-* [Appendix](https://www.dropbox.com/s/acxrwjlr4gk6fjc/pricingchildren_appendix_jlg_12062021.pdf?dl=0).
+* [Final Version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0). 
+* [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
