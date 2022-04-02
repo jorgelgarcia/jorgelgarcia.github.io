@@ -29,6 +29,7 @@ This course provides an introduction to empirical design for causal inference. B
 This reading group studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. 
 * [Reading list: Module 1--Difference in Differences](https://www.dropbox.com/s/m9t04564m47p10g/readinglist_m1.pdf?dl=0).
 * [Reading list: Module 2--Synthetic Cohorts](https://www.dropbox.com/s/ieilrj5uegpmeht/readinglist_m2.pdf?dl=0).
+* [Reading list: Module 3--Instrumental Variables](https://www.dropbox.com/s/7lugt6093qowbch/readinglist_m3.pdf?dl=0). 
 <br />
 <br />
 

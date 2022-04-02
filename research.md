@@ -6,6 +6,11 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
+13\. On Criteria for Evaluating Social Programs (with James J. Heckman).
+* [Current Version](https://www.dropbox.com/s/hi71yrtyiruer3j/hendresk_note.pdf?dl=0).
+<br/>
+<br/>
+
 12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women?
 * [Current Version](https://www.dropbox.com/s/quxjl4u849zl557/gem_paper_03072022a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
