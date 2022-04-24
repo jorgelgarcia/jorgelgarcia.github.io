@@ -7,11 +7,11 @@ permalink: /research/
 ## Working Papers
 
 13\. On Criteria for Evaluating Social Programs (with James J. Heckman).
-* [Current Version](https://www.dropbox.com/s/hi71yrtyiruer3j/hendresk_note.pdf?dl=0).
+* New Version Coming Soon
 <br/>
 <br/>
 
-12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Under review.
+12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women?
 * [Current Version](https://www.dropbox.com/s/quxjl4u849zl557/gem_paper_03072022a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
 <br/>
@@ -24,10 +24,10 @@ permalink: /research/
 <br/>
 <br/>
 
-10\. The Dynastic Benefits of Early Childhood Education (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman).
-* [Current Version](https://www.dropbox.com/s/k6fgezqkfu7xqm6/perrycba_paper_2021-12-17a_jlg.pdf?dl=0).
+10\. The Dynastic Benefits of Early Childhood Education (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under review.
+* [Current Version](https://www.dropbox.com/s/478vgwbys0z1clp/perrcba_paper_2022-04-24a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
-* [Slides](https://www.dropbox.com/s/i88eyg77ae0ovfb/perrycba_slides_november_jlg.pdf?dl=0).
+* [Slides](https://www.dropbox.com/s/owruqp66sf1l4eg/perrcba_slides_2022-04-24a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
@@ -35,6 +35,7 @@ permalink: /research/
 ### Peer-reviewed
 
 9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Accepted to the Journal of Human Resources.
+* [Preprint Version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
 * [Final Version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0). 
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0).
 <br/>
