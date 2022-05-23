@@ -6,7 +6,7 @@ permalink: /teaching/
 <style>body {text-align: justify}</style>
 I teach two eight-week courses in the first-year econometrics core sequence of the economics Ph.D. program at Clemson University. The courses introduce graduate-level linear regression and empirical design for causal inference. Both courses provide empirical applications and version control and statistical-software training.<br />
 
-In the Spring of 2022, I am hosting Econ 899-02, a reading group for Econ Ph.D. students. We are studying advanced tools for causal inference and policy evaluation. The reading group has four modules: difference in differences, synthetic cohort, instrumental variables, and dynamic panel models.<br />
+In the Spring of 2022, I began a reading-group style class for Econ Ph.D. students, Econ 899-02. This class studies tools for causal inference and policy evaluation. The reading group has four modules: difference in differences, synthetic cohort, instrumental variables, and dynamic panel models.<br />
 
 At Clemson, I have also taught a course on the economics of education for undergraduate and M.A. students and a Ph.D. course on microeconometrics for labor economics. 
 <br />
@@ -26,10 +26,8 @@ This course provides an introduction to empirical design for causal inference. B
 <br />
 
 ## Econ 899-02: Topics of Applied Econometrics (Econ Ph.D.)---Ph.D. Reading Group
-This reading group studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. 
-* [Reading list: Module 1--Difference in Differences](https://www.dropbox.com/s/m9t04564m47p10g/readinglist_m1.pdf?dl=0).
-* [Reading list: Module 2--Synthetic Cohorts](https://www.dropbox.com/s/ieilrj5uegpmeht/readinglist_m2.pdf?dl=0).
-* [Reading list: Module 3--Instrumental Variables](https://www.dropbox.com/s/7lugt6093qowbch/readinglist_m3.pdf?dl=0). 
+This reading-group style class studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. 
+* [Spring 2022 Student Evaluations](https://www.dropbox.com/s/5vwqohsvfr7vmsl/ECON-8990-002SelectedTopicsinEconomics202201-ECON-8990-002-20309-GarciaMenendez_GarciaGMenendezJorge.pdf?dl=0).
 <br />
 <br />
 

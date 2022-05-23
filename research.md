@@ -12,8 +12,8 @@ permalink: /research/
 <br/>
 <br/>
 
-12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women?
-* [Current Version](https://www.dropbox.com/s/quxjl4u849zl557/gem_paper_03072022a_jlg.pdf?dl=0).
+12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Under review.
+* [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
 <br/>
 <br/>
