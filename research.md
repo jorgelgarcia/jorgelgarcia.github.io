@@ -18,7 +18,7 @@ permalink: /research/
 <br/>
 <br/>
 
-11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Revised and Resubmitted to the Journal of Political Economy.
+11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Revised and resubmitted to the Journal of Political Economy.
 * [Current Version](https://www.dropbox.com/s/j3pq3gqx7j70th5/perrysecondgen_paper_05222022a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
