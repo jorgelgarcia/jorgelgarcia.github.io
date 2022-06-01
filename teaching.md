@@ -11,6 +11,13 @@ In the Spring of 2022, I began a reading-group style class for Econ Ph.D. studen
 At Clemson, I have also taught a course on the economics of education for undergraduate and M.A. students and a Ph.D. course on microeconometrics for labor economics. 
 <br />
 <br />
+
+## Econ 899-02: Topics of Applied Econometrics (Econ Ph.D.)---Ph.D. Reading Group
+This reading-group style class studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. 
+* [Spring 2022 Student Evaluations](https://www.dropbox.com/s/5vwqohsvfr7vmsl/ECON-8990-002SelectedTopicsinEconomics202201-ECON-8990-002-20309-GarciaMenendez_GarciaGMenendezJorge.pdf?dl=0).
+<br />
+<br />
+
 ## Econ 900-02: Econometrics I (first-year Econ Ph.D. sequence)---Ph.D. Course
 This course provides a primer on graduate-level regression analysis. The course covers mathematical, statistical, mechanical, and computational intrinsic details of linear regression. The course offers several empirical applications. It provides version control and statistical-software training.
 * [Fall 2021 Student Evaluations](https://www.dropbox.com/s/913oo1ucdjk9lup/ECON-9000-002SelectedTopics202108-ECON-9000-002-89525-GarciaGMenendez_JorgeGarciaGMenendez.pdf?dl=0).
@@ -22,12 +29,6 @@ This course provides a primer on graduate-level regression analysis. The course 
 This course provides an introduction to empirical design for causal inference. Building on the material of Econ-900-02, it discusses methods for policy evaluation and identification of causal effects. The course offers several empirical applications. It provides version control and statistical-software training.
 * [Fall 2021 Student Evaluations](https://www.dropbox.com/s/qo3zn2pkcfzpd4m/ECON-9000-003SelectedTopics202108-ECON-9000-003-89526-GarciaGMenendez_JorgeGarciaGMenendez.pdf?dl=0).
 * [Fall 2020 Student Evaluations](https://www.dropbox.com/s/67ft8lxi8ngjpo3/ECON-9000-003SelectedTopics_JorgeGarciaGMenendez.pdf?dl=0).
-<br />
-<br />
-
-## Econ 899-02: Topics of Applied Econometrics (Econ Ph.D.)---Ph.D. Reading Group
-This reading-group style class studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. 
-* [Spring 2022 Student Evaluations](https://www.dropbox.com/s/5vwqohsvfr7vmsl/ECON-8990-002SelectedTopicsinEconomics202201-ECON-8990-002-20309-GarciaMenendez_GarciaGMenendezJorge.pdf?dl=0).
 <br />
 <br />
 
