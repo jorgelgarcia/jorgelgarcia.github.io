@@ -6,20 +6,22 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
-13\. On Criteria for Evaluating Social Programs (with James J. Heckman). Under review.
+13\. On Criteria for Evaluating Social Programs (with James J. Heckman). Revise and resubmit at the Journal of Benefit-Cost Analysis (minor revisions requested).
+* Revision ongoing.
 * [Current Version](https://www.dropbox.com/s/t8ph0bwbg0q7x9c/oncriteria_2022-06-17e_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
 
-12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Under review.
+12\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Revise and resubmit at the American Economic Journal: Economic Policy. 
+* Revision ongoing.
 * [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
-11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Revised and resubmitted to the Journal of Political Economy.
-* [Current Version](https://www.dropbox.com/s/j3pq3gqx7j70th5/perrysecondgen_paper_05222022a_jlg.pdf?dl=0).
+11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Resubmitted to the Journal of Political Economy (second round, minor revisions requested).
+* [Current Version](https://www.dropbox.com/s/hjh71ya4wmg98cj/perrysecondgen_paper_08-02-2022a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
