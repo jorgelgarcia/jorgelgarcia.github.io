@@ -20,14 +20,7 @@ permalink: /research/
 <br/>
 <br/>
 
-11\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Resubmitted to the Journal of Political Economy (second round, minor revisions requested).
-* [Current Version](https://www.dropbox.com/s/hjh71ya4wmg98cj/perrysecondgen_paper_08-02-2022a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
-* [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
-<br/>
-<br/>
-
-10\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under review.
+11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under review.
 * [Current Version](https://www.dropbox.com/s/4owab3mx3ip95y3/perrycba_paper_2022-05-31a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/owruqp66sf1l4eg/perrcba_slides_2022-04-24a_jlg.pdf?dl=0).
@@ -36,6 +29,13 @@ permalink: /research/
 
 ## Publications
 ### Peer-reviewed
+
+10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Resubmitted to the Journal of Political Economy (second round, minor revisions requested).
+* [Final Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
+* [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
+* [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
+<br/>
+<br/>
 
 9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Accepted to the Journal of Human Resources.
 * [Preprint Version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
