@@ -30,14 +30,14 @@ permalink: /research/
 ## Publications
 ### Peer-reviewed
 
-10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans (with James J. Heckman and Victor Ronda). Resubmitted to the Journal of Political Economy (second round, minor revisions requested).
+10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. Forthcoming in the Journal of Political Economy.
 * [Final Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
 <br/>
 
-9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. Accepted to the Journal of Human Resources.
+9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. 2022. Forthcoming in the Journal of Human Resources.
 * [Preprint Version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
 * [Final Version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0). 
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0).
