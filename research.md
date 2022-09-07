@@ -20,8 +20,9 @@ permalink: /research/
 <br/>
 <br/>
 
-11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). Under review.
-* [Current Version](https://www.dropbox.com/s/4owab3mx3ip95y3/perrycba_paper_2022-05-31a_jlg.pdf?dl=0).
+11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). Under review.
+* [Current Version](https://www.dropbox.com/s/ux3fgt5e3sqz7l4/perrycba_paper_2022-09-07a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/zuqkw02r5pfwz2o/perrycba_appendix_2022-09-06a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/owruqp66sf1l4eg/perrcba_slides_2022-04-24a_jlg.pdf?dl=0).
 <br/>
@@ -32,6 +33,7 @@ permalink: /research/
 
 10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. Forthcoming in the Journal of Political Economy.
 * [Final Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
