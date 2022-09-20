@@ -6,13 +6,7 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
-3\. Three Criteria for Evaluating Social Programs (with James J. Heckman). Resubmitted to the <em>Journal of Benefit-Cost Analysis</em>.
-* [Resubmitted Version](https://www.dropbox.com/s/2g3l9h2ugp6s25w/oncriteria_b2022-09-20a_jlg.pdf?dl=0).
-* [Preliminary Version (as NBER Working Paper)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
-<br/>
-<br/>
-
-2\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? Revise and resubmit at the <em>American Economic Journal: Economic Policy</em>. 
+2\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revise and resubmit at the American Economic Journal: Economic Policy</em>. 
 * Revision ongoing.
 * [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
 * [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
@@ -28,6 +22,12 @@ permalink: /research/
 
 ## Publications
 ### Peer-reviewed
+
+9\. Three Criteria for Evaluating Social Programs (with James J. Heckman). <em>Forthcoming in Journal of Benefit-Cost Analysis</em>.
+* [Final Version](https://www.dropbox.com/s/2g3l9h2ugp6s25w/oncriteria_b2022-09-20a_jlg.pdf?dl=0).
+* [Preliminary Version (as NBER Working Paper)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
+<br/>
+<br/>
 
 8\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
 * [Final Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
