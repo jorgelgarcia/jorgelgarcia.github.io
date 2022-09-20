@@ -6,10 +6,9 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
-13\. On Criteria for Evaluating Social Programs (with James J. Heckman). Revise and resubmit at the <em>Journal of Benefit-Cost Analysis</em> (minor revisions requested).
-* Revision ongoing.
-* [Current Version](https://www.dropbox.com/s/t8ph0bwbg0q7x9c/oncriteria_2022-06-17e_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
+13\. Three Criteria for Evaluating Social Programs (with James J. Heckman). Resubmitted to the <em>Journal of Benefit-Cost Analysis</em>.
+* [Resubmitted Version](https://www.dropbox.com/s/hbu7di7iayfd4r4/oncriteria_b2022-09-19c_jlg.pdf?dl=0).
+* [Preliminary Version (as NBER Working Paper)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
 
@@ -23,7 +22,6 @@ permalink: /research/
 11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). <em>Under review</em>.
 * [Current Version](https://www.dropbox.com/s/4owab3mx3ip95y3/perrycba_paper_2022-05-31a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
-* [Slides](https://www.dropbox.com/s/owruqp66sf1l4eg/perrcba_slides_2022-04-24a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
