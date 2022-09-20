@@ -19,8 +19,9 @@ permalink: /research/
 <br/>
 <br/>
 
-11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff, Duncan Ermini Leaf, and James J. Heckman). <em>Under review</em>.
-* [Current Version](https://www.dropbox.com/s/4owab3mx3ip95y3/perrycba_paper_2022-05-31a_jlg.pdf?dl=0).
+11\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). Under review.
+* [Current Version](https://www.dropbox.com/s/ux3fgt5e3sqz7l4/perrycba_paper_2022-09-07a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/zuqkw02r5pfwz2o/perrycba_appendix_2022-09-06a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 <br/>
 <br/>
