@@ -7,7 +7,7 @@ permalink: /research/
 ## Working Papers
 
 3\. Three Criteria for Evaluating Social Programs (with James J. Heckman). Resubmitted to the <em>Journal of Benefit-Cost Analysis</em>.
-* [Resubmitted Version](https://www.dropbox.com/s/hbu7di7iayfd4r4/oncriteria_b2022-09-19c_jlg.pdf?dl=0).
+* [Resubmitted Version](https://www.dropbox.com/s/2g3l9h2ugp6s25w/oncriteria_b2022-09-20a_jlg.pdf?dl=0).
 * [Preliminary Version (as NBER Working Paper)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
