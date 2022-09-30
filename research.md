@@ -6,10 +6,13 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
+3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Ilia Polovnikov and William Dougan). 
+* [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
+
 2\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revise and resubmit at the American Economic Journal: Economic Policy</em>. 
 * Revision ongoing.
 * [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
-* [Slides](https://www.dropbox.com/s/yfg0iwq3f0ubi5d/gem_slides_03072022a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
