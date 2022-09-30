@@ -6,7 +6,7 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
-3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Ilia Polovnikov and William Dougan). 
+3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan). 
 * [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
 
