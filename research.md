@@ -19,7 +19,7 @@ permalink: /research/
 1\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). <em>Under review<em>.
 * [Current Version](https://www.dropbox.com/s/ux3fgt5e3sqz7l4/perrycba_paper_2022-09-07a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/zuqkw02r5pfwz2o/perrycba_appendix_2022-09-06a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
+* [Older NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 <br/>
 <br/>
 
@@ -28,7 +28,8 @@ permalink: /research/
 
 9\. Three Criteria for Evaluating Social Programs (with James J. Heckman). <em>Forthcoming in the Journal of Benefit-Cost Analysis</em>.
 * [Accepted Version](https://www.dropbox.com/s/2g3l9h2ugp6s25w/oncriteria_b2022-09-20a_jlg.pdf?dl=0).
-* [Preliminary Version (as NBER Working Paper)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
+* [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
+* [Previous Version (with derivation of some concepts)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
 
