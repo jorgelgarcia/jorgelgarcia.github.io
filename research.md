@@ -6,6 +6,10 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 
+4\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). <em>Under review<em>.
+* [Current Version](https://www.dropbox.com/s/4aid6jxh6b4fvku/arpaper_10-27-2022a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/p7rb9qe4kud97se/arpaper_appendix_10-22-2022a_jlg.pdf?dl=0).
+
 3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan). 
 * [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
@@ -29,7 +33,7 @@ permalink: /research/
 9\. Three Criteria for Evaluating Social Programs (with James J. Heckman). <em>Forthcoming in the Journal of Benefit-Cost Analysis</em>.
 * [Accepted Version](https://www.dropbox.com/s/88jgrs9t5vn3wxe/oncriteria_b2022-09-28a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
-* [Previous Version (with derivation of some concepts)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
+* [Previous Version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
 
