@@ -7,7 +7,7 @@ permalink: /research/
 ## Working Papers
 
 4\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). <em>Under review<em>.
-* [Current Version](https://www.dropbox.com/s/4aid6jxh6b4fvku/arpaper_10-27-2022a_jlg.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/6ngwdwhixx27s84/w30610.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/p7rb9qe4kud97se/arpaper_appendix_10-22-2022a_jlg.pdf?dl=0).
 
 3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan). 
