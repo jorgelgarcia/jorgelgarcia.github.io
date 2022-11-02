@@ -31,6 +31,7 @@ permalink: /research/
 ### Peer-reviewed
 
 9\. Three Criteria for Evaluating Social Programs (with James J. Heckman). <em>Forthcoming in the Journal of Benefit-Cost Analysis</em>.
+* [Preprint Version](https://www.dropbox.com/s/2mhkwd87lq07uie/three-criteria-for-evaluating-social-programs.pdf?dl=0)
 * [Accepted Version](https://www.dropbox.com/s/88jgrs9t5vn3wxe/oncriteria_b2022-09-28a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
 * [Previous Version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
