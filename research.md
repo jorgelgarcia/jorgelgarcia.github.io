@@ -32,15 +32,7 @@ My research statement is <a href="https://www.dropbox.com/s/kuukgw9rhqovw43/garc
 ## Publications
 ### Peer-reviewed
 
-9\. Three Criteria for Evaluating Social Programs (with James J. Heckman). <em>Forthcoming in the Journal of Benefit-Cost Analysis</em>.
-* [Preprint Version](https://www.dropbox.com/s/2mhkwd87lq07uie/three-criteria-for-evaluating-social-programs.pdf?dl=0).
-* [Accepted Version](https://www.dropbox.com/s/88jgrs9t5vn3wxe/oncriteria_b2022-09-28a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
-* [Previous Version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
-<br/>
-<br/>
-
-8\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
+9\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
 * [Preprint Version](https://www.journals.uchicago.edu/doi/epdf/10.1086/722936).
 * [Accepted Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
@@ -49,10 +41,17 @@ My research statement is <a href="https://www.dropbox.com/s/kuukgw9rhqovw43/garc
 <br/>
 <br/>
 
-7\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. 2022. <em>Forthcoming in the Journal of Human Resources</em>
+8\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. 2022. <em>Forthcoming in the Journal of Human Resources</em>
 * [Preprint Version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
 * [Accepted Version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0). 
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0).
+<br/>
+<br/>
+
+7\. Three Criteria for Evaluating Social Programs (with James J. Heckman). 2022. <em>Journal of Benefit-Cost Analysis</em>. 13:3.
+* [Published Version](https://www.dropbox.com/s/j6tjzm0iarupldt/three-criteria-for-evaluating-social-programs.pdf?dl=0).
+* [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
+* [Previous Version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
 
