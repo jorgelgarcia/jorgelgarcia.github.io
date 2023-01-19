@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <style>body {text-align: justify}</style>
 My research statement is <a href="https://www.dropbox.com/s/y5t4vmygyujbtpd/garcia_researchstatement.pdf?dl=0">here</a>.
-## Working Papers
+## Working Papers 
 
 4\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). <em>Under review<em>.
 * [Current Version](https://www.dropbox.com/s/6ngwdwhixx27s84/w30610.pdf?dl=0).
