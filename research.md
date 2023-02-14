@@ -7,20 +7,16 @@ permalink: /research/
 My research statement is <a href="https://www.dropbox.com/s/y5t4vmygyujbtpd/garcia_researchstatement.pdf?dl=0">here</a>.
 ## Working Papers 
 
-4\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). <em>Under review<em>.
-* [Current Version](https://www.dropbox.com/s/6ngwdwhixx27s84/w30610.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/p7rb9qe4kud97se/arpaper_appendix_10-22-2022a_jlg.pdf?dl=0).
-
-3\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan).  <em>Under review<em>.
-* [Slides](https://www.dropbox.com/s/n6hn5fs6d15qfj4/childcareparentingihdp_slides_11-17-2022a_jlg.pdf?dl=0).
-* [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
-
-2\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revise and resubmit at the American Economic Journal: Economic Policy</em>. 
+3\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revise and resubmit at the American Economic Journal: Economic Policy</em>. 
 * Revision ongoing.
 * [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
 <br/>
 <br/>
+
+2\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan).  <em>Under review<em>.
+* [Slides](https://www.dropbox.com/s/n6hn5fs6d15qfj4/childcareparentingihdp_slides_11-17-2022a_jlg.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
 
 1\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). <em>Under review<em>.
 * [Current Version](https://www.dropbox.com/s/br5u8kqbkwd51lw/perrycba_paper_2022-12-21a_jlg.pdf?dl=0).
@@ -31,6 +27,10 @@ My research statement is <a href="https://www.dropbox.com/s/y5t4vmygyujbtpd/garc
 
 ## Publications
 ### Peer-reviewed
+
+10\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2022. <em>Forthcoming in the Annual Review of Economics</em>.
+* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
 
 9\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
 * [Preprint Version](https://www.journals.uchicago.edu/doi/epdf/10.1086/722936).
