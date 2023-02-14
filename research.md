@@ -28,7 +28,7 @@ My research statement is <a href="https://www.dropbox.com/s/y5t4vmygyujbtpd/garc
 ## Publications
 ### Peer-reviewed
 
-10\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2022. <em>Forthcoming in the Annual Review of Economics</em>.
+10\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Forthcoming in the Annual Review of Economics</em>.
 * [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
 
