@@ -8,9 +8,9 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 <br/>
 ## Working Papers 
 
-3\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revise and resubmit at the American Economic Journal: Economic Policy</em>. 
-* Revision ongoing.
-* [Current Version](https://www.dropbox.com/s/seo3ove2e09vh18/gem_paper_05222022a_jlg.pdf?dl=0).
+3\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revised and resubmitted to the American Economic Journal: Economic Policy</em>. 
+* [Current Version](https://www.dropbox.com/s/0on13notpwx06qo/gem_paper_04-12-2023b_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
 <br/>
 <br/>
 
@@ -29,16 +29,18 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 ## Publications
 ### Peer-reviewed
 
-10\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Forthcoming in the Annual Review of Economics</em>.
-* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
-
-9\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
+10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
 * [Preprint Version](https://www.journals.uchicago.edu/doi/epdf/10.1086/722936).
 * [Accepted Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
 * [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
+<br/>
+<br/>
+
+9\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Forthcoming in the Annual Review of Economics</em>.
+* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
