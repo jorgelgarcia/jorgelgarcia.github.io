@@ -10,7 +10,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 
 3\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revised and resubmitted to the American Economic Journal: Economic Policy</em>. 
 * [Current Version](https://www.dropbox.com/s/0on13notpwx06qo/gem_paper_04-12-2023b_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
+* [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
