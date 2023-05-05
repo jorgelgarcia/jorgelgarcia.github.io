@@ -29,7 +29,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 ## Publications
 ### Peer-reviewed
 
-10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2022. <em>Forthcoming in the Journal of Political Economy</em>.
+10\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). <em>Accepted for publication at the Journal of Political Economy</em>.
 * [Preprint Version](https://www.journals.uchicago.edu/doi/epdf/10.1086/722936).
 * [Accepted Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
@@ -38,16 +38,17 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 <br/>
 <br/>
 
-9\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Forthcoming in the Annual Review of Economics</em>.
-* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
-<br/>
-<br/>
-
-8\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. 2022. <em>Forthcoming in the Journal of Human Resources</em>
+9\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. <em>Accepted for publication at the Journal of Human Resources</em>
 * [Preprint Version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
 * [Accepted Version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0). 
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0).
+<br/>
+<br/>
+
+8\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Annual Review of Economics</em>. 15:1.
+* [Preprint Version](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-021423-031905).
+* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
 <br/>
 <br/>
 
