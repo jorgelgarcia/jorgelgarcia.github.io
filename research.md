@@ -22,7 +22,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 1\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). <em>Under review<em>.
 * [Current Version](https://www.dropbox.com/s/br5u8kqbkwd51lw/perrycba_paper_2022-12-21a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/zuqkw02r5pfwz2o/perrycba_appendix_2022-09-06a_jlg.pdf?dl=0).
-* [Older NBER Working Paper](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
+* [Older Version](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 <br/>
 <br/>
 
@@ -33,7 +33,6 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 * [Preprint Version](https://www.journals.uchicago.edu/doi/epdf/10.1086/722936).
 * [Accepted Version](https://www.dropbox.com/s/2j6fb6i9af2e21q/perrysecondgen_paper_08-26-2022a_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/j064n60f2pg5mbg/w29057.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
 <br/>
@@ -54,7 +53,6 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 
 7\. Three Criteria for Evaluating Social Programs (with James J. Heckman). 2022. <em>Journal of Benefit-Cost Analysis</em>. 13:3.
 * [Published Version](https://www.dropbox.com/s/j6tjzm0iarupldt/three-criteria-for-evaluating-social-programs.pdf?dl=0).
-* [NBER Working Paper](https://www.dropbox.com/s/qgi23c6cw7ho87e/w30507.pdf?dl=0).
 * [Previous Version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0).
 <br/>
 <br/>
