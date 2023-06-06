@@ -11,7 +11,7 @@ I teach two eight-week courses (modules) in economics Ph.D. program at Clemson U
 
 In the Spring of 2023, I began teaching half of a semester in the second class of the first-year sequence of price theory in the economics Ph.D. program at Clemson University.
 
-In the Spring of 2022, I began a reading-group style class for economics Ph.D. students, Econ 899-02. This class studies tools for causal inference and policy evaluation. The reading group has four modules: difference in differences, synthetic cohort, instrumental variables, and dynamic panel models.<br />
+In the Spring of 2022, I began a reading-group style class for economics Ph.D. students. This class studies recent developments in standard tools for causal inference and policy evaluation. The reading group has four modules: difference in differences, synthetic cohort, instrumental variables, and dynamic panel models.<br />
 
 At Clemson, I have also taught a course on the economics of education for undergraduate and M.A. students and a Ph.D. course on microeconometrics for labor economics. 
 
@@ -23,7 +23,7 @@ This course discusses price theory applications as a continuation of the the fir
 <br />
 
 ## Econ 899-02: Topics of Applied Econometrics (Econ Ph.D.)---Ph.D. Reading Group
-This reading-group style class meets every other year. It studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings. I did not host this reading group in the Spring of 2023. I will host it again in the Fall of 2023.
+This reading-group style class meets every other year. It studies advanced tools for causal inference and policy evaluation. The four modules study generalizations of standard uses of difference-in-difference, synthetic cohorts, instrumental variables, and dynamic panels models. Examples of the topics covered include difference in differences with variation in the timing of treatment, dynamic synthetic controls, identification of marginal treatment effects using instrumental variables, and moment estimators in panel settings.
 * [Spring 2022 Student Evaluations](https://www.dropbox.com/s/5vwqohsvfr7vmsl/ECON-8990-002SelectedTopicsinEconomics202201-ECON-8990-002-20309-GarciaMenendez_GarciaGMenendezJorge.pdf?dl=0).
 <br />
 <br />
