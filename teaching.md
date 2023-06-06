@@ -17,7 +17,7 @@ At Clemson, I have also taught a course on the economics of education for underg
 
 <br />
 ## Econ 802-02: Advanced Economic Concepts and Applications: Price Theory---Ph.D. Course
-This course discusses price theory applications as a  continuation of the main price theory class of the first-year price theory sequence of the Ph.D. programs. Topics include education, models of the family, fertility, labor supply, and discrimination.
+This course discusses price theory applications as a continuation of the the first-year price theory sequence of the Ph.D. programs. Topics include education, models of the family, fertility, labor supply, and discrimination.
 * [Spring 2023 Student Evaluations](https://www.dropbox.com/s/6r59678z9rem4m4/ECON-8020-002AdvEconConceptsandApplicI202301-ECON-8020-002-14816-GarciaGMenendez_JorgeGarciaGMenendez.pdf?dl=0).
 <br />
 <br />
