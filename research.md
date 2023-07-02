@@ -57,6 +57,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 
 8\. Quantifying the Life-cycle Benefits of an Influential Early Childhood Program (with James J. Heckman, Duncan Ermini Leaf, María José Prados). 2020. <em>Journal of Political Economy</em>. 128:7.
 * [Published Version](https://www.dropbox.com/s/1yinom4vsgl3afc/705718.pdf?dl=0). 
+* [Appendix](https://www.dropbox.com/s/p5wp4yh96k0d9ov/abc_comprehensivecba_appendix-pub_2018-08-02a_jlg.pdf?dl=0).
 * [Microeconomic Insights Non-technical Summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/).
 <br/>
 <br/>
@@ -68,6 +69,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 
 6\. Gender Differences in the Benefits of an Influential Early Childhood Program (with James J. Heckman and Anna L. Ziff). 2018. <em>European Economic Review</em>. 109.
 * [Published Version](https://www.dropbox.com/s/q6mowvkjpz1us5h/1-s2.0-S0014292118300953-main.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/z3sfkvm5f655w0r/abc_treatmenteffects_appendix.pdf?dl=0).
 <br/>
 <br/>
 
