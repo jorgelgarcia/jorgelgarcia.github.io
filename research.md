@@ -17,8 +17,8 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 <br/>
 
 14\. The Dynastic Benefits of Early Childhood Education: Evidence from a Program Targeted to Disadvantaged African Americans (with Frederik H. Bennhoff and Duncan Ermini Leaf). <em>Revised and resubmitted to the Journal of Human Capital<em>.
-* [Current Version](https://www.dropbox.com/s/j6l4yw3zahuwrx4/perrycba_revision_2023-07-10a_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/486778j38xxy8s5/perrycba_appendixrevision_2023-07-10a_jlg.pdf?dl=0).
+* [Current Version](https://www.dropbox.com/s/vp8zymiwnlql6oq/perrycba_revision_2023-07-19a_jlg.pdf?dl=0).
+* [Appendix](https://www.dropbox.com/s/ca9ra66iwzrous6/perrycba_appendixrevision_2023-07-19a_jlg.pdf?dl=0).
 * [Older Version](https://www.dropbox.com/s/6brsiqua5eifvg6/w29004.pdf?dl=0).
 <br/>
 <br/>
