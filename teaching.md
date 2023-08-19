@@ -5,8 +5,11 @@ permalink: /teaching/
 ---
 <style>body {text-align: justify}</style>
 My teaching statement is <a href="https://www.dropbox.com/s/z0eeahtcu0c0n20/garcia_teachingstatement.pdf?dl=0">here</a>.
-<br />
-<br />
+<br>
+<p align="justify"> 
+The main component of my research is data analysis using modern micro-econometric and price-theoretic tools. I aim to translate this main component into my teaching. I teach the basis for micro-econometric analysis at the Ph.D.-level in classes that combine theory, statistical software, and version control. More recently, I started to teach a Ph.D.-level class on applications of price theory to labor and development problems. Every other year, I host a reading group for advanced Ph.D. students, where we learn about recent developments in causal inference and policy evaluation. In the recent past, I enjoyed teaching classes at the undergraduate and master's levels on the economics of education.
+</p>
+<br>
 I teach two eight-week courses (modules) in economics Ph.D. program at Clemson University. The courses introduce graduate-level linear regression and empirical design for causal inference. Both courses provide empirical applications and version control and statistical-software training.<br />
 
 In the Spring of 2023, I began teaching half of a semester in the second class of the first-year sequence of price theory in the economics Ph.D. program at Clemson University.

@@ -22,7 +22,7 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 <br/>
 <br/>
 
-13\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2023. <em>Journal of Political Economy</em> 131:6.
+13\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2023. <em>Journal of Political Economy</em> 131:6. 
 * [Published Version](https://www.dropbox.com/s/q9ef27a35xfkpuy/722936.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
 * [NBER Non-technical Summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
@@ -95,8 +95,4 @@ My abbreviated research statement is <a href="https://www.dropbox.com/s/j2zh6xce
 
 ### Working Papers 
 
-1\. Childcare and Parenting as Skill Determinants: Evidence from a Large-Scale Trial of an Early-Childhood Education Program (with Illia Polovnikov and William Dougan).  <em>New version coming soon<em>.
-* [Slides](https://www.dropbox.com/s/efncqtcchyd89w8/childcareparentingihdp_slides_05-13-2023a_jlg.pdf?dl=0).
-* [Current Version](https://www.dropbox.com/s/37mo3i6jj2deipy/childcareparentingihdp_paper_09302022a_jlg.pdf?dl=0).
-* [Appendix](https://www.dropbox.com/s/5j9o8ct3fjonx2h/childcareparentingihdp_appendix_09302022a_jlg.pdf?dl=0).
-
+1\. High-Quality Early-Childhood Education at Scale: Evidence from a Multisite Randomized Trial (with William Dougan and Illia Polovnikov). <em>New version coming soon<em>.
