@@ -18,13 +18,13 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 * [Current Version](https://www.dropbox.com/scl/fi/opecp7u69q7zmr3lknf45/dynamiccomplementary_07272023a_jlg.pdf?rlkey=0ygi0b0rbqdbdn4dlys7evcl1&dl=0).
 * [Appendix](https://www.dropbox.com/scl/fi/duqlxn9kdxyjkjkgezh6t/dynamiccomplementary_appendix_07272023a_jlg.pdf?rlkey=0ke0voxnb5d1hymkw2daqctvj&dl=0).
 
-### Peer-reviewed Journal Articles
-
 14\. Guaranteed Employment in Rural India: Richer Households, Poorer Women? <em>Revision requested at the American Economic Journal: Economic Policy</em>. 
 * [Current Version](https://www.dropbox.com/s/0on13notpwx06qo/gem_paper_04-12-2023b_jlg.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0).
 <br/>
 <br/>
+
+### Peer-reviewed Journal Articles
 
 13\. The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers (with Frederik H. Bennhoff and Duncan Ermini Leaf). <em>Accepted for publication at the Journal of Human Capital<em>.
 * [Accepted Version](https://www.dropbox.com/s/5wskczk6h2364b5/perrycba_revision_2023-07-28a_jlg.pdf?dl=0).
