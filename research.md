@@ -23,8 +23,7 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 <br/>
 
 14\. Parenting Promotes Social Mobility Within and Across Generations (with James J. Heckman). 2023. <em>Annual Review of Economics</em>. 15:1. pp. 349-388.
-* [Preprint Version](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-021423-031905).
-* [Accepted Version](https://www.dropbox.com/s/oq9y383q968vn1w/arpaper_02-14-2023b_jlg.pdf?dl=0).
+* [Published Version](https://www.dropbox.com/scl/fi/xxdba08xeyk7kcjem8yns/annurev-economics-021423-031905.pdf?rlkey=pqy6it5s41xojcyd1wwff1s0n&dl=0).
 * [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0).
 <br/>
 
@@ -59,9 +58,9 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 * [Appendix](https://www.dropbox.com/s/z3sfkvm5f655w0r/abc_treatmenteffects_appendix.pdf?dl=0).
 <br/>
 
-7\. Social Policy: Targeting Programmes Effectively (with James J. Heckman). 2017. <em>Nature Human Behavior</em>. 1:1.
-* [Published Version](https://www.dropbox.com/s/8rktlxe288yrr2t/s41562-016-0019.pdf?dl=0).
+7\. Social Policy: Targeting Programmes Effectively (with James J. Heckman). 2017. <em>Nature Human Behavior</em>. 1:1. pp. 1-2.
 * Invited article (not peer-reviewed).
+* [Published Version](https://www.dropbox.com/s/8rktlxe288yrr2t/s41562-016-0019.pdf?dl=0).
 <br/>
 
 6\. Early Childhood Education (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em>Economics of Means-Tested Transfer Programs in the United States, Volume II</em>. The University of Chicago Press, edited by Robert Moffitt.
