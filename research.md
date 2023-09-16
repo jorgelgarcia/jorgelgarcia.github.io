@@ -17,7 +17,7 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 <br/>
 
 15\. The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children (with James J. Heckman and Victor Ronda). 2023. <em>Journal of Political Economy</em> 131:6. pp. 1477-1506.
-* [Published Version](https://www.dropbox.com/s/q9ef27a35xfkpuy/722936.pdf?dl=0).
+* [Published version](https://www.dropbox.com/s/q9ef27a35xfkpuy/722936.pdf?dl=0).
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0).
 * [NBER non-technical summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project).
 <br/>
