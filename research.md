@@ -34,7 +34,7 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 <br/>
 
 12\. Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy. 2022.  <em>Forthcoming in the Journal of Human Resources</em>.
-* Ahead of print.
+* Ahead of print
 * [Preprint version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
 * [Accepted version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0)
