@@ -65,7 +65,7 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 <br/>
 
 6\. Early Childhood Education (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em>Economics of Means-Tested Transfer Programs in the United States, Volume II</em>. The University of Chicago Press, edited by Robert Moffitt.
-* Invited book chapter.
+* Invited book chapter
 * [Published version](https://www.dropbox.com/s/u60uewgz4asd5os/c13489.pdf?dl=0)
 * [VOX, CEPR policy portal non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility)
 <br/>
