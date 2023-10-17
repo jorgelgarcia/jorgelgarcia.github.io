@@ -86,7 +86,7 @@ My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garc
 * [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
 <br/>
 
-2\. High-Quality Early-Childhood Education at Scale: Evidence from a Multisite Randomized Trial (with William Dougan and Illia Polovnikov). <em>Revision requested at the Journal of Political Economy: Micro</em>.
+2\. High-Quality Early-Childhood Education at Scale: Evidence from a Multisite Randomized Trial (with William Dougan and Illia Polovnikov). <em>Revision requested at the Journal of Political Economy Microeconomics</em>.
 * [Current version](https://www.dropbox.com/scl/fi/ksau89zkcjx466jcdrf90/hqecescale_paper_2023-08-25a_jlg.pdf?rlkey=nyq5kdmgaw1t6jp63pv5ix7cb&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/4sme0bknl9lt3ji97h8v0/hqecescale_appendix_2023-08-25a_jlg.pdf?rlkey=8bwxmst1tjd8xx3jlqmvug1yn&dl=0)
 <br/>
