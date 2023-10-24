@@ -78,7 +78,7 @@ permalink: /research/
 * [Published version](https://www.dropbox.com/s/8rktlxe288yrr2t/s41562-016-0019.pdf?dl=0)
 <br/>
 
-3\. <u>Early Childhood Education</u> (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em><b>Economics of Means-Tested Transfer Programs in the United States, Volume II</b></em>. The University of Chicago Press, edited by Robert Moffitt.
+3\. <u>Early Childhood Education</u> (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em><b>Economics of Means-Tested Transfer Programs in the United States, Volume II</b></em>. The University of Chicago Press, edited by Robert Moffitt. pp. 235-297.
 * Invited book chapter
 * [Published version](https://www.dropbox.com/s/u60uewgz4asd5os/c13489.pdf?dl=0)
 * [VOX, CEPR policy portal non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility)
