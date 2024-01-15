@@ -11,14 +11,6 @@ permalink: /teaching/
 <p align="justify"> 
 The main component of my research is data analysis using modern micro-econometric and price-theoretic tools. I aim to translate this main component into my teaching. I teach the basis for micro-econometric analysis at the Ph.D.-level in classes that combine theory, statistical software, and version control. More recently, I started to teach a Ph.D.-level class on applications of price theory to labor and development problems. Every other year, I host a reading group for advanced Ph.D. students, where we learn about recent developments in causal inference and policy evaluation. In the recent past, I enjoyed teaching classes at the undergraduate and master's levels on the economics of education.
 </p>
-<br>
-I teach two eight-week courses (modules) in economics Ph.D. program at Clemson University. The courses introduce graduate-level linear regression and empirical design for causal inference. Both courses provide empirical applications and version control and statistical-software training.<br />
-
-In the Spring of 2023, I began teaching half of a semester in the second class of the first-year sequence of price theory in the economics Ph.D. program at Clemson University.
-
-In the Spring of 2022, I began a reading-group style class for economics Ph.D. students. This class studies recent developments in standard tools for causal inference and policy evaluation. The reading group has four modules: difference in differences, synthetic cohort, instrumental variables, and dynamic panel models.<br />
-
-At Clemson, I have also taught a course on the economics of education for undergraduate and M.A. students and a Ph.D. course on microeconometrics for labor economics. 
 
 <br />
 ## Econ 802-02: Advanced Economic Concepts and Applications: Price Theory---Ph.D. Course
