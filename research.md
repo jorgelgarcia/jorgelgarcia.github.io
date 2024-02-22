@@ -4,9 +4,6 @@ title: Research
 permalink: /research/
 ---
 <style>body {text-align: justify}</style>
-<b>My research statement is <a href="https://www.dropbox.com/s/j2zh6xceq8myhmd/garcia_abbreviatedresearchstatement.pdf?dl=0">here</a></b>.
-<br/>
-
 ## Publications and Working Papers
 
 ### Working Papers 

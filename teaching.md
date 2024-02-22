@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 <style>body {text-align: justify}</style>
-<b>My teaching statement is <a href="https://www.dropbox.com/s/z0eeahtcu0c0n20/garcia_teachingstatement.pdf?dl=0">here</a></b>.
-<br>
 <b>The entire set of my teaching evaluations is in this <a href="https://www.dropbox.com/scl/fi/imzsbudduhvi2w4wyagc5/garcia_teachingevaluations_file1.pdf?rlkey=kqlf4ehz4cxaxaqn4vw8wlks6&dl=0">file</a> and this <a href="https://www.dropbox.com/scl/fi/yjf5ameol1re7no0yzcnw/garcia_teachingevaluations_file2.pdf?rlkey=h7vfc2pe7h7i1xnnx3naujzxs&dl=0">file</a>.</b>
 <br>
 <p align="justify"> 
