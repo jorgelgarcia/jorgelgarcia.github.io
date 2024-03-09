@@ -4,9 +4,7 @@ title:
 permalink: /research/
 ---
 <style>body {text-align: justify}</style>
-## Publications and Working Papers
-
-### Working Papers 
+## Working Papers 
 16\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision requested at the <b>American Economic Journal: Economic Policy</b></em>. 
 * [Current version](https://www.dropbox.com/s/0on13notpwx06qo/gem_paper_04-12-2023b_jlg.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
@@ -20,8 +18,10 @@ permalink: /research/
 14\. <u>Complementarity and Substitutability in the Production of Early Human Capital</u> (with Sebastián Gallegos). <em>Revision requested at the <b>Economics of Education Review</b></em>.
 * [Current version](https://www.dropbox.com/scl/fi/opecp7u69q7zmr3lknf45/dynamiccomplementary_07272023a_jlg.pdf?rlkey=0ygi0b0rbqdbdn4dlys7evcl1&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/duqlxn9kdxyjkjkgezh6t/dynamiccomplementary_appendix_07272023a_jlg.pdf?rlkey=0ke0voxnb5d1hymkw2daqctvj&dl=0)
+<br/>
+<br/>
 
-### Publications
+## Publications
 13\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2023. <em>Accepted for publication at the <b>Journal of Human Capital</b></em>.
 * [Preprint version](https://www.journals.uchicago.edu/doi/abs/10.1086/728058)
 * [Accepted version](https://www.dropbox.com/s/5wskczk6h2364b5/perrycba_revision_2023-07-28a_jlg.pdf?dl=0)
