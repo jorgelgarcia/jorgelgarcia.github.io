@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: 
 permalink: /cv/
 ---
 [Click here to download the .pdf file](https://www.dropbox.com/s/ltsn00oaoheeicv/garcia_cv.pdf?dl=0).

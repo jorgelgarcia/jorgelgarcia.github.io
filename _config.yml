@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  jorgelgarcia
 google_scholar_id: SmFz3DIAAAAJ
-orc_id: 0000-0001-7724-6541
+orcid_id: 0000-0001-7724-6541
 
 # Build settings
 markdown: kramdown
