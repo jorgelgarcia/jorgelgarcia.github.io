@@ -15,7 +15,7 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/scl/fi/4sme0bknl9lt3ji97h8v0/hqecescale_appendix_2023-08-25a_jlg.pdf?rlkey=8bwxmst1tjd8xx3jlqmvug1yn&dl=0)
 <br/>
 
-14\. <u>Complementarity and Substitutability in the Production of Early Human Capital</u> (with Sebastián Gallegos). <em>Resubmitted to the <b>Economics of Education Review</b></em>.
+14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). <em>Resubmitted to the <b>Economics of Education Review</b></em>.
 * [Current version](https://www.dropbox.com/scl/fi/ko3kry94en9qgmfcd4yfp/icp_paper_03092024a_jlg.pdf?rlkey=ywpho2mmxy98clbl3zf9qoe63&dl=0)
 <br/>
 <br/>
