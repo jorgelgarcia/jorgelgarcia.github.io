@@ -21,9 +21,8 @@ permalink: /research/
 <br/>
 
 ## Publications
-13\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2023. <em>Accepted for publication at the <b>Journal of Human Capital</b></em>.
-* [Preprint version](https://www.journals.uchicago.edu/doi/abs/10.1086/728058)
-* [Accepted version](https://www.dropbox.com/s/5wskczk6h2364b5/perrycba_revision_2023-07-28a_jlg.pdf?dl=0)
+13\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2024. <em><b>Journal of Human Capital</b></em>. 18:1. pp. 44-73.
+* [Published version](https://www.dropbox.com/scl/fi/d3zvnvx8inij4mtzdfmxi/perrycba_finalpaper_2024-03-26.pdf?rlkey=ymn3r8cwggjewyvzc4k0jxrza&dl=0)
 * [Appendix](https://www.dropbox.com/s/sjocnqphi84edue/perrycba_appendixrevision_2023-07-28a_jlg.pdf?dl=0)
 <br/>
 
