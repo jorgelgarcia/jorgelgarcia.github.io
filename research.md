@@ -44,7 +44,7 @@ permalink: /research/
 
 9\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2022.  <em>Forthcoming in the <b>Journal of Human Resources</b></em>.
 * Published ahead of print on 04/2022
-* [Preprint version](http://jhr.uwpress.org/content/early/2022/03/31/jhr.0820-11118R1.full.pdf+html)
+* [Preprint version](https://jhr.uwpress.org/content/early/2024/03/13/jhr.0820-11118R1)
 * [Accepted version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0)
 <br/>
