@@ -15,38 +15,39 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/scl/fi/4sme0bknl9lt3ji97h8v0/hqecescale_appendix_2023-08-25a_jlg.pdf?rlkey=8bwxmst1tjd8xx3jlqmvug1yn&dl=0)
 <br/>
 
-14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). <em>Resubmitted to the <b>Economics of Education Review</b></em>.
-* [Current version](https://www.dropbox.com/scl/fi/ko3kry94en9qgmfcd4yfp/icp_paper_03092024a_jlg.pdf?rlkey=ywpho2mmxy98clbl3zf9qoe63&dl=0)
+## Publications
+14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). <em>Accepted at the <b>Economics of Education Review</b></em>.
+* [Accepted version](https://www.dropbox.com/scl/fi/bs0dgtx19zvadwiurhth8/icp_paper_05-22-2024a_jlg.pdf?rlkey=zbn3p19inngv11sjmf10gja1d&dl=0)
 <br/>
 <br/>
 
-## Publications
-13\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2024. <em><b>Journal of Human Capital</b></em>. 18:1. pp. 44-73.
+13\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
+* Lead article
+* Published ahead of print on 04/2022
+* [Preprint version](https://jhr.uwpress.org/content/early/2024/03/13/jhr.0820-11118R1)
+* [Accepted version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0)
+* [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0)
+<br/>
+
+12\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2024. <em><b>Journal of Human Capital</b></em>. 18:1. pp. 44-73.
 * [Published version](https://www.dropbox.com/scl/fi/d3zvnvx8inij4mtzdfmxi/perrycba_finalpaper_2024-03-26.pdf?rlkey=ymn3r8cwggjewyvzc4k0jxrza&dl=0)
 * [Appendix](https://www.dropbox.com/s/sjocnqphi84edue/perrycba_appendixrevision_2023-07-28a_jlg.pdf?dl=0)
 <br/>
 
-12\. <u>The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children</u> (with James J. Heckman and Victor Ronda). 2023. <em><b>Journal of Political Economy</b></em>. 131:6. pp. 1477-1506.
+11\. <u>The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children</u> (with James J. Heckman and Victor Ronda). 2023. <em><b>Journal of Political Economy</b></em>. 131:6. pp. 1477-1506.
 * [Published version](https://www.dropbox.com/s/q9ef27a35xfkpuy/722936.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0)
 * [NBER non-technical summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project)
 <br/>
 
-11\. <u>Parenting Promotes Social Mobility Within and Across Generations</u> (with James J. Heckman). 2023. <em><b>Annual Review of Economics</b></em>. 15:1. pp. 349-388.
+10\. <u>Parenting Promotes Social Mobility Within and Across Generations</u> (with James J. Heckman). 2023. <em><b>Annual Review of Economics</b></em>. 15:1. pp. 349-388.
 * [Published version](https://www.dropbox.com/scl/fi/xxdba08xeyk7kcjem8yns/annurev-economics-021423-031905.pdf?rlkey=pqy6it5s41xojcyd1wwff1s0n&dl=0)
 * [Appendix](https://www.dropbox.com/s/j279auh3i4pb642/arpaper_appendix_02-14-2023a_jlg.pdf?dl=0)
 <br/>
 
-10\. <u>Three Criteria for Evaluating Social Programs</u> (with James J. Heckman). 2022. <em><b>Journal of Benefit-Cost Analysis</b></em>. 13:3. pp. 281-286.
+9\. <u>Three Criteria for Evaluating Social Programs</u> (with James J. Heckman). 2022. <em><b>Journal of Benefit-Cost Analysis</b></em>. 13:3. pp. 281-286.
 * [Published version](https://www.dropbox.com/s/j6tjzm0iarupldt/three-criteria-for-evaluating-social-programs.pdf?dl=0)
 * [Previous version (extended discussion)](https://www.dropbox.com/s/fmzlaftadxmkb7z/w30005.pdf?dl=0)
-<br/>
-
-9\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2022.  <em>Forthcoming in the <b>Journal of Human Resources</b></em>.
-* Published ahead of print on 04/2022
-* [Preprint version](https://jhr.uwpress.org/content/early/2024/03/13/jhr.0820-11118R1)
-* [Accepted version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0)
-* [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0)
 <br/>
 
 8\. <u>Early Childhood Education and Life-cycle Health</u> (with James J. Heckman). 2020. <em><b>Health Economics</b></em>. 30:S1. pp. 119-141.
