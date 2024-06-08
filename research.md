@@ -16,7 +16,7 @@ permalink: /research/
 <br/>
 
 ## Publications
-14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). 2024 <em><b>Economics of Education Review</b></em>. 101. Article 102557. pp. 1-12.
+14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). 2024 <em><b>Economics of Education Review</b></em>. 101 (102557). pp. 1-12.
 * [Published version](https://www.dropbox.com/scl/fi/hebqg4r6ax3f5yh3r2aej/1-s2.0-S0272775724000517-main.pdf?rlkey=iwlda3cefbxxo1tr8a8cv50u9&dl=0)
 <br/>
 <br/>
