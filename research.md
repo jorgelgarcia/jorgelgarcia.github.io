@@ -10,9 +10,10 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
 <br/>
 
-15\. <u>High-Quality Early-Childhood Education at Scale: Evidence from a Multisite Randomized Trial</u> (with William Dougan and Illia Polovnikov). <em>Revision requested at the <b>Journal of Political Economy Microeconomics</b></em>.
-* [Current version](https://www.dropbox.com/scl/fi/ksau89zkcjx466jcdrf90/hqecescale_paper_2023-08-25a_jlg.pdf?rlkey=nyq5kdmgaw1t6jp63pv5ix7cb&dl=0)
-* [Appendix](https://www.dropbox.com/scl/fi/4sme0bknl9lt3ji97h8v0/hqecescale_appendix_2023-08-25a_jlg.pdf?rlkey=8bwxmst1tjd8xx3jlqmvug1yn&dl=0)
+15\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
+* [Current version](https://www.dropbox.com/scl/fi/r2pjozeoyesw20qnf34k5/gsbspi_paper_06-13-2024b_jlg.pdf?rlkey=savtbjs23dtn3em0anojh01zr&dl=0)
+* [Appendix](https://www.dropbox.com/scl/fi/ryz0cuvjy4iz87pefxkmj/gsbspi_appendix_06-13-2024a_jlg.pdf?rlkey=d0xltl5ot4mvvk4wycbo0sw8l&dl=0)
+* [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
 <br/>
 
 ## Publications
