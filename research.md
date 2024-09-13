@@ -5,9 +5,9 @@ permalink: /research/
 ---
 <style>body {text-align: justify}</style>
 ## Working Papers 
-16\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision requested at the <b>American Economic Journal: Economic Policy</b></em>. 
-* [Current version](https://www.dropbox.com/s/0on13notpwx06qo/gem_paper_04-12-2023b_jlg.pdf?dl=0)
-* [Appendix](https://www.dropbox.com/s/yo4zctf9ki5j7i7/gem_appendix_04-12-2023a_jlg.pdf?dl=0)
+16\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision submitted to the <b>American Economic Journal: Economic Policy</b></em>. 
+* [Current version](https://www.dropbox.com/scl/fi/ve5u73bu1xkuumk689bks/gem_paper_09-13-2024d_jlg.pdf?rlkey=bjiob9ixepr0m3fl822i8dnpx&e=1&st=3olwdb26&dl=0)
+* [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
 <br/>
 
 15\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
