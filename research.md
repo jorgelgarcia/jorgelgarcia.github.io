@@ -5,26 +5,31 @@ permalink: /research/
 ---
 <style>body {text-align: justify}</style>
 ## Working Papers 
-16\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision submitted to the <b>American Economic Journal: Economic Policy</b></em>. 
+17\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision submitted to the <b>American Economic Journal: Economic Policy</b></em>. 
 * [Current version](https://www.dropbox.com/scl/fi/ve5u73bu1xkuumk689bks/gem_paper_09-13-2024d_jlg.pdf?rlkey=bjiob9ixepr0m3fl822i8dnpx&e=1&st=3olwdb26&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
 <br/>
 
-15\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
+16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
 * [Current version](https://www.dropbox.com/scl/fi/r2pjozeoyesw20qnf34k5/gsbspi_paper_06-13-2024b_jlg.pdf?rlkey=savtbjs23dtn3em0anojh01zr&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/ryz0cuvjy4iz87pefxkmj/gsbspi_appendix_06-13-2024a_jlg.pdf?rlkey=d0xltl5ot4mvvk4wycbo0sw8l&dl=0)
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
 <br/>
 
 ## Publications
-14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). 2024. <em><b>Economics of Education Review</b></em>. 101 (102557). pp. 1-12.
-* [Published version](https://www.dropbox.com/scl/fi/hebqg4r6ax3f5yh3r2aej/1-s2.0-S0272775724000517-main.pdf?rlkey=iwlda3cefbxxo1tr8a8cv50u9&dl=0)
+15\. <u>Early Education’s Long-Term Benefits</u>. 2024.  <em><b>Science</b></em>. 385: 6715. pp. 1285:1285.
+* Letter (not peer-reviewed)
+* [Published version](https://www.dropbox.com/scl/fi/4rwphc7h60fia7vfloo3q/science.adq9151.pdf?rlkey=16tamsn6oovgufhgvq0383g2h&st=9samaxw4&dl=0)
 <br/>
 
-13\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
+14\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
 * Lead article
 * [Published version](https://www.dropbox.com/scl/fi/08zu0f9am4415y7j8ozgq/pricingchildren_publishedpaper_09-24-2024a_jlg.pdf?rlkey=recj6dl2s4cda89emi7416q64&st=8w2ys5yi&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/yo1hu9z7czi32so14h2yp/pricingchildren_publishedsupp_09-24-2024a_jlg.pdf?rlkey=wexhkoai3dp2depotwt5f0zla&st=8skn5fei&dl=0)
+<br/>
+
+13\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). 2024. <em><b>Economics of Education Review</b></em>. 101 (102557). pp. 1-12.
+* [Published version](https://www.dropbox.com/scl/fi/hebqg4r6ax3f5yh3r2aej/1-s2.0-S0272775724000517-main.pdf?rlkey=iwlda3cefbxxo1tr8a8cv50u9&dl=0)
 <br/>
 
 12\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2024. <em><b>Journal of Human Capital</b></em>. 18:1. pp. 44-73.
