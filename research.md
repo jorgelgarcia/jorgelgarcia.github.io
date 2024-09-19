@@ -17,12 +17,12 @@ permalink: /research/
 <br/>
 
 ## Publications
-15\. <u>Early Education’s Long-Term Benefits</u>. 2024.  <em><b>Science</b></em>. 385: 6715. pp. 1285:1285.
+15\. <u>Early Education’s Long-Term Benefits</u>. 2024.  <em><b>Science</b></em>. 385:6715. pp. 1285-1285.
 * Letter (not peer-reviewed)
 * [Published version](https://www.dropbox.com/scl/fi/4rwphc7h60fia7vfloo3q/science.adq9151.pdf?rlkey=16tamsn6oovgufhgvq0383g2h&st=9samaxw4&dl=0)
 <br/>
 
-14\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
+14\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319-1352.
 * Lead article
 * [Published version](https://www.dropbox.com/scl/fi/08zu0f9am4415y7j8ozgq/pricingchildren_publishedpaper_09-24-2024a_jlg.pdf?rlkey=recj6dl2s4cda89emi7416q64&st=8w2ys5yi&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/yo1hu9z7czi32so14h2yp/pricingchildren_publishedsupp_09-24-2024a_jlg.pdf?rlkey=wexhkoai3dp2depotwt5f0zla&st=8skn5fei&dl=0)
