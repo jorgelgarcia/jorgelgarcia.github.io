@@ -24,10 +24,8 @@ permalink: /research/
 
 13\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
 * Lead article
-* Published ahead of print on 04/2022
-* [Preprint version](https://jhr.uwpress.org/content/early/2024/03/13/jhr.0820-11118R1)
-* [Accepted version](https://www.dropbox.com/s/19rvs85us3fssyj/pricingchildren_paper_02252022a_jlg.pdf?dl=0)
-* [Appendix](https://www.dropbox.com/s/lunjmsbd6bjgspi/pricingchildren_appendix_02252022a_jlg.pdf?dl=0)
+* [Published version]https://www.dropbox.com/scl/fi/08zu0f9am4415y7j8ozgq/pricingchildren_publishedpaper_09-24-2024a_jlg.pdf?rlkey=recj6dl2s4cda89emi7416q64&st=8w2ys5yi&dl=0)
+* [Appendix](https://www.dropbox.com/scl/fi/yo1hu9z7czi32so14h2yp/pricingchildren_publishedsupp_09-24-2024a_jlg.pdf?rlkey=wexhkoai3dp2depotwt5f0zla&st=8skn5fei&dl=0)
 <br/>
 
 12\. <u>The Dynastic Benefits of Early Childhood Education: Participant Benefits and Family Spillovers</u> (with Frederik H. Bennhoff and Duncan Ermini Leaf). 2024. <em><b>Journal of Human Capital</b></em>. 18:1. pp. 44-73.
