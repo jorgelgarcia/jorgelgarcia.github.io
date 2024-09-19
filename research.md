@@ -20,7 +20,6 @@ permalink: /research/
 14\. <u>Childcare and Parenting in the Production of Early Life Skills</u> (with Sebastián Gallegos). 2024. <em><b>Economics of Education Review</b></em>. 101 (102557). pp. 1-12.
 * [Published version](https://www.dropbox.com/scl/fi/hebqg4r6ax3f5yh3r2aej/1-s2.0-S0272775724000517-main.pdf?rlkey=iwlda3cefbxxo1tr8a8cv50u9&dl=0)
 <br/>
-<br/>
 
 13\. <u>Pricing Children, Curbing Daughters: Fertility and the Sex-Ratio During China's One-Child Policy</u>. 2024.  <em><b>Journal of Human Resources</b></em>. 59:5. pp. 1319:1352.
 * Lead article
