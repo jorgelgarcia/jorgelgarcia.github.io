@@ -10,7 +10,7 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
 <br/>
 
-16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Minor revisions requested at the <b>Journal of Political Economy Microeconomics</b></em>.
+16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
 * [Current version](https://www.dropbox.com/scl/fi/s6d96au33t0sd1u9xe3kt/gsbspi_paper_01-02-2025a_jlg.pdf?rlkey=jd0x4d1fb7julzb2re1xhqkjq&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/832uvupvad3cg8mcphgnw/gsbspi_appendix_01-02-2025a_jlg.pdf?rlkey=i9v62j8m6lu0l43cbbflednwc&dl=0)
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
