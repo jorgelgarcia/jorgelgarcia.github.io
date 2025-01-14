@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <style>body {text-align: justify}</style>
 ## Work in Progress
-18\. <u>Targeting Rural Poverty through Guaranteed Basic Income:\\ Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
+18\. <u>Targeting Rural Poverty through Guaranteed Basic Income: Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
 * [Current version coming soon]
 
 ## Working Papers 
