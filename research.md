@@ -6,7 +6,7 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Work in Progress
 18\. <u>Targeting Rural Poverty through Guaranteed Basic Income: Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
-* [Current version coming soon]
+* First version coming soon
 
 ## Working Papers 
 17\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> <em>Revision submitted to the <b>American Economic Journal: Economic Policy</b></em>. 
