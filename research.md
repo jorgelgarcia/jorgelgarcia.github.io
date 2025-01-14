@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <style>body {text-align: justify}</style>
 ## Work in Progress
-18.\  <u>Targeting Rural Poverty through Guaranteed Basic Income:\\ Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
+18\. <u>Targeting Rural Poverty through Guaranteed Basic Income:\\ Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
 * [Current version coming soon]
 
 ## Working Papers 
@@ -14,16 +14,10 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
 <br/>
 
-<<<<<<< HEAD
 ## Publications
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
 * [Accepted version](https://www.dropbox.com/scl/fi/afz1at2dhss5gqb7n5xtp/gsbspi_paper_01-14-2025a_jlg.pdf?rlkey=s0bm5e37027et0hnj3iuoyhfh&st=eggs7kae&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/xv51erjbg0xaznjjil7qa/gsbspi_appendix_01-14-2025a_jlg.pdf?rlkey=lmf6uhhhkkbkdoqn3ier0fcpg&st=ent6l36u&dl=0)
-=======
-16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). <em>Revision submitted to the <b>Journal of Political Economy Microeconomics</b></em>.
-* [Current version](https://www.dropbox.com/scl/fi/s6d96au33t0sd1u9xe3kt/gsbspi_paper_01-02-2025a_jlg.pdf?rlkey=jd0x4d1fb7julzb2re1xhqkjq&dl=0)
-* [Appendix](https://www.dropbox.com/scl/fi/832uvupvad3cg8mcphgnw/gsbspi_appendix_01-02-2025a_jlg.pdf?rlkey=i9v62j8m6lu0l43cbbflednwc&dl=0)
->>>>>>> 9e1461fac1d58ab534c8f3243ffaca0a82d158a4
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
 <br/>
 
