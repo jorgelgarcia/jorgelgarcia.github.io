@@ -21,7 +21,7 @@ permalink: /research/
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
 <br/>
 
-15\. <u>Early Education’s Long-Term Benefits</u> (solo-authored). 2024.  <em><b>Science</b></em>. 385:6715. pp. 1285-1285.
+15\. <u>Early Education’s Long-Term Benefits</u> (solo-authored). 2024.  <em><b>Science</b></em>. 385:6715. p. 1285.
 * Letter (not peer-reviewed)
 * [Published version](https://www.dropbox.com/scl/fi/4rwphc7h60fia7vfloo3q/science.adq9151.pdf?rlkey=16tamsn6oovgufhgvq0383g2h&st=9samaxw4&dl=0)
 <br/>
