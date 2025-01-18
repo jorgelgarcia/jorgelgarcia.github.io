@@ -9,7 +9,7 @@ permalink: /research/
 * First version coming soon
 
 ## Working Papers 
-17\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Minor revisions requested.
+17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Resubmitted.
 * [Current version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
 <br/>
