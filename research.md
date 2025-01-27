@@ -9,12 +9,13 @@ permalink: /research/
 * First version coming soon
 
 ## Working Papers 
-17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Resubmitted.
-* [Current version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
+
+## Publications
+17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted (conditional on data review approval).
+* [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
 <br/>
 
-## Publications
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
 * [Accepted version](https://www.dropbox.com/scl/fi/afz1at2dhss5gqb7n5xtp/gsbspi_paper_01-14-2025a_jlg.pdf?rlkey=s0bm5e37027et0hnj3iuoyhfh&st=eggs7kae&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/xv51erjbg0xaznjjil7qa/gsbspi_appendix_01-14-2025a_jlg.pdf?rlkey=lmf6uhhhkkbkdoqn3ier0fcpg&st=ent6l36u&dl=0)
