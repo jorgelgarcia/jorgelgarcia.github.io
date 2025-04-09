@@ -14,6 +14,7 @@ permalink: /research/
 17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted (conditional on data review approval).
 * [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
+* [VoxDev non-technical summary](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
 <br/>
 
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
@@ -85,7 +86,7 @@ permalink: /research/
 3\. <u>Early Childhood Education</u> (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em><b>Economics of Means-Tested Transfer Programs in the United States, Volume II</b></em>. The University of Chicago Press, edited by Robert Moffitt. pp. 235-297.
 * Invited book chapter
 * [Published version](https://www.dropbox.com/s/u60uewgz4asd5os/c13489.pdf?dl=0)
-* [VOX, CEPR policy portal non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility)
+* [VoxEU non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility)
 <br/>
 
 2\. <u>The Price of Fringe Benefits when Formal and Informal Labor Markets Coexist</u> (with David Argente). 2015. <em><b>IZA Journal of Labor Economics</b></em>. 4:1. pp. 1-12.
