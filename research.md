@@ -8,8 +8,6 @@ permalink: /research/
 18\. <u>Targeting Rural Poverty through Guaranteed Basic Income: Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
 * First version coming soon
 
-## Working Papers 
-
 ## Publications
 17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted (conditional on data review approval).
 * [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
