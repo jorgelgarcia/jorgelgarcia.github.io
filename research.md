@@ -10,20 +10,12 @@ permalink: /research/
 * [Appendix](https://www.dropbox.com/scl/fi/azui99a9w66gpt3cir7sy/bid_appendix_2025-05-13a_jlg.pdf?rlkey=3ekshxbpcb3mj81rsvss5yzy8&st=mjwsm3iv&dl=0)
 <br/>
 
-<<<<<<< HEAD
-## Working Papers 
-17\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Minor revisions requested.
-* [Current version](https://www.dropbox.com/scl/fi/ve5u73bu1xkuumk689bks/gem_paper_09-13-2024d_jlg.pdf?rlkey=bjiob9ixepr0m3fl822i8dnpx&e=1&st=3olwdb26&dl=0)
-* [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
-
-=======
 ## Publications
 17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted (conditional on data review approval).
 * [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
 * [VoxDev non-technical summary](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
 <br/>
->>>>>>> 9061145e97f8b3133b95abd6c306abbbad8c3e8c
 
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
 * [Accepted version](https://www.dropbox.com/scl/fi/afz1at2dhss5gqb7n5xtp/gsbspi_paper_01-14-2025a_jlg.pdf?rlkey=s0bm5e37027et0hnj3iuoyhfh&st=eggs7kae&dl=0)
