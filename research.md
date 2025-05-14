@@ -4,15 +4,17 @@ title:
 permalink: /research/
 ---
 <style>body {text-align: justify}</style>
-## Work in Progress
-18\. <u>Targeting Rural Poverty through Guaranteed Basic Income: Initial Results from an Experiment in South Carolina</u> (with Patrick Warren and L. Reed Watson). 
-* First version coming soon
+## Working Papers
+18\. <u>Basic Income and the Dynamics of Employment and Human Capital in a Non-Urban Disadvantaged Setting</u> (with Patrick Warren and L. Reed Watson). 
+* [Current version](https://www.dropbox.com/scl/fi/snol36764ovpm7hs0kpqg/bid_paper_2025-05-14a_jlg.pdf?rlkey=nrv7lf7joeedzwrxe43d38oyb&st=ddjyghv3&dl=0)
+* [Appendix](https://www.dropbox.com/scl/fi/azui99a9w66gpt3cir7sy/bid_appendix_2025-05-13a_jlg.pdf?rlkey=3ekshxbpcb3mj81rsvss5yzy8&st=mjwsm3iv&dl=0)
+<br/>
 
 ## Working Papers 
 17\. <u>Guaranteed Employment in Rural India: Richer Households, Poorer Women?</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Minor revisions requested.
 * [Current version](https://www.dropbox.com/scl/fi/ve5u73bu1xkuumk689bks/gem_paper_09-13-2024d_jlg.pdf?rlkey=bjiob9ixepr0m3fl822i8dnpx&e=1&st=3olwdb26&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/q2rrv990vf8mvw18oji0x/gem_appendix_09-13-2024a_jlg.pdf?rlkey=vggyq1nqhtf7gdtdxoa25l611&st=pmvaxzjv&dl=0)
-<br/>
+
 
 ## Publications
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
