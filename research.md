@@ -6,7 +6,7 @@ permalink: /research/
 <style>body {text-align: justify}</style>
 ## Working Papers
 18\. <u>Basic Income and the Dynamics of Employment and Human Capital in a Non-Urban Disadvantaged Setting</u> (with Patrick Warren and L. Reed Watson). 
-* [Current version](https://www.dropbox.com/scl/fi/snol36764ovpm7hs0kpqg/bid_paper_2025-05-14a_jlg.pdf?rlkey=nrv7lf7joeedzwrxe43d38oyb&st=ddjyghv3&dl=0)
+* [Current version](https://www.dropbox.com/scl/fi/3spj51txl6rf3g93mjwt9/bid_paper_2025-05-29a_jlg.pdf?rlkey=5r9mk3wqz2toavwwdwo9d0ooz&st=t6jxnlxn&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/azui99a9w66gpt3cir7sy/bid_appendix_2025-05-13a_jlg.pdf?rlkey=3ekshxbpcb3mj81rsvss5yzy8&st=mjwsm3iv&dl=0)
 <br/>
 
