@@ -14,7 +14,8 @@ permalink: /research/
 17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted (conditional on data review approval).
 * [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
-* [VoxDev non-technical summary](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
+* [Ideas for India article](https://www.ideasforindia.in/topics/social-identity/how-mnrega-reduced-women-s-labour-force-participation.html:)
+* [VoxDev article](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
 <br/>
 
 16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
@@ -46,7 +47,7 @@ permalink: /research/
 11\. <u>The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans and their Children</u> (with James J. Heckman and Victor Ronda). 2023. <em><b>Journal of Political Economy</b></em>. 131:6. pp. 1477-1506.
 * [Published version](https://www.dropbox.com/s/q9ef27a35xfkpuy/722936.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/vor0ypc15d6oa7c/perrysecondgen_appendix_08-26-2022a_jlg.pdf?dl=0)
-* [NBER non-technical summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project)
+* [NBER summary](https://www.nber.org/digest-202110/intergenerational-impacts-perry-preschool-project)
 <br/>
 
 10\. <u>Parenting Promotes Social Mobility Within and Across Generations</u> (with James J. Heckman). 2023. <em><b>Annual Review of Economics</b></em>. 15:1. pp. 349-388.
@@ -66,7 +67,7 @@ permalink: /research/
 7\. <u>Quantifying the Life-cycle Benefits of an Influential Early Childhood Program</u> (with James J. Heckman, Duncan Ermini Leaf, María José Prados). 2020. <em><b>Journal of Political Economy</b></em>. 128:7. pp. 2502-2541.
 * [Published version](https://www.dropbox.com/s/1yinom4vsgl3afc/705718.pdf?dl=0)
 * [Appendix](https://www.dropbox.com/s/p5wp4yh96k0d9ov/abc_comprehensivecba_appendix-pub_2018-08-02a_jlg.pdf?dl=0)
-* [Microeconomic Insights non-technical summary](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/)
+* [Microeconomic Insights article](https://microeconomicinsights.org/life-cycle-benefits-of-early-childhood-programs-evidence-from-an-influential-early-childhood-program/)
 <br/>
 
 6\. <u>Early Childhood Education and Crime</u> (with James J. Heckman and Anna L. Ziff). 2019. <em><b>Infant Mental Health Journal</b></em>. 40:1. pp. 141-151.
@@ -86,7 +87,7 @@ permalink: /research/
 3\. <u>Early Childhood Education</u> (with Sneha Elango, James J. Heckman, and Andrés Hojman). 2016. <em><b>Economics of Means-Tested Transfer Programs in the United States, Volume II</b></em>. The University of Chicago Press, edited by Robert Moffitt. pp. 235-297.
 * Invited book chapter
 * [Published version](https://www.dropbox.com/s/u60uewgz4asd5os/c13489.pdf?dl=0)
-* [VoxEU non-technical summary](https://voxeu.org/article/early-childhood-education-and-social-mobility)
+* [VoxEU article](https://voxeu.org/article/early-childhood-education-and-social-mobility)
 <br/>
 
 2\. <u>The Price of Fringe Benefits when Formal and Informal Labor Markets Coexist</u> (with David Argente). 2015. <em><b>IZA Journal of Labor Economics</b></em>. 4:1. pp. 1-12.
