@@ -11,17 +11,18 @@ permalink: /research/
 <br/>
 
 ## Publications
-17\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. Accepted.
-* [Accepted version](https://www.dropbox.com/scl/fi/u7gs8ofvpyzz68q20b7lk/gem_paper_01-17-2025a_jlg.pdf?rlkey=n4aiiv91nmr7dvfkvmc35myem&st=vy5bx68x&dl=0)
-* [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
-* [Ideas for India article](https://www.ideasforindia.in/topics/social-identity/how-mnrega-reduced-women-s-labour-force-participation)
-* [VoxDev article](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
-<br/>
-
-16\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2025. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
+17\. <u>Reexamining a Multisite Early Childhood Education Program: Gradual Scale-Up, Birth Spacing, and Parental Investment</u> (with William Dougan and Illia Polovnikov). 2026. <em><b>Journal of Political Economy Microeconomics</b></em>. Accepted.
 * [Accepted version](https://www.dropbox.com/scl/fi/afz1at2dhss5gqb7n5xtp/gsbspi_paper_01-14-2025a_jlg.pdf?rlkey=s0bm5e37027et0hnj3iuoyhfh&st=eggs7kae&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/xv51erjbg0xaznjjil7qa/gsbspi_appendix_01-14-2025a_jlg.pdf?rlkey=lmf6uhhhkkbkdoqn3ier0fcpg&st=ent6l36u&dl=0)
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
+<br/>
+
+16\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. 18:2. pp. 33-74.
+* [Published version](https://www.dropbox.com/scl/fi/7cyjovcmvkkzbgnk8c06m/garc-C3-ADa-2026-guaranteed-employment-in-rural-india-intrahousehold-labor-and-resource-allocation-consequences.pdf?rlkey=erk93lw130z40b75qruxbkfkq&st=6pvgw3ub&dl=0)
+* [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
+* [Ideas for India article](https://www.ideasforindia.in/topics/social-identity/how-mnrega-reduced-women-s-labour-force-participation)
+* [VoxDev article](https://voxdev.org/topic/labour-markets/guaranteed-employment-india-actually-reduced-female-labour-force-participation)
+* [Replication package](https://www.openicpsr.org/openicpsr/project/218921/version/V1/view)
 <br/>
 
 15\. <u>Early Education’s Long-Term Benefits</u> (solo-authored). 2024.  <em><b>Science</b></em>. 385:6715. p. 1285.
