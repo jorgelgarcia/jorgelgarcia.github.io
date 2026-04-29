@@ -17,7 +17,7 @@ permalink: /research/
 * [Older working-paper version](https://www.dropbox.com/scl/fi/udo4s7c5kb3pclros6xro/w31694.pdf?rlkey=lq2wacji57tpch7et2zp0ev7a&dl=0)
 <br/>
 
-16\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2025. <em><b>American Economic Journal: Economic Policy</b></em>. 18:2. pp. 33-74.
+16\. <u>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</u> (solo-authored). 2026. <em><b>American Economic Journal: Economic Policy</b></em>. 18:2. pp. 33-74.
 * [Published version](https://www.dropbox.com/scl/fi/7cyjovcmvkkzbgnk8c06m/garc-C3-ADa-2026-guaranteed-employment-in-rural-india-intrahousehold-labor-and-resource-allocation-consequences.pdf?rlkey=erk93lw130z40b75qruxbkfkq&st=6pvgw3ub&dl=0)
 * [Appendix](https://www.dropbox.com/scl/fi/3ypzkzkdc2o2wzwexr32x/gem_appendix_01-17-2025a_jlg.pdf?rlkey=fqtr0vbjt87kx77tzhd78g3gf&st=m6v31pst&dl=0)
 * [Ideas for India article](https://www.ideasforindia.in/topics/social-identity/how-mnrega-reduced-women-s-labour-force-participation)
